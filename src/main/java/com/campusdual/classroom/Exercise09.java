@@ -18,6 +18,5 @@ public class Exercise09 {
             System.out.println("Entra con valor: " + i + ", sale con valor: " + (i + 1));
                     i++;
         } while (i < num);
-
     }
 }
